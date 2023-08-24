@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="premierepro UI" alt="premierepro UI" width="40" height="40"/>&nbsp;
 </div>
 
-https://github-readme-codewars-stats.herokuapp.com/api/?username=[Mackros]&badge&name_only
+![Codewars](https://github.r2v.ch/codewars?user=Mackros&top_languages=true)
 
 
 
