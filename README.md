@@ -9,4 +9,5 @@ At the moment I am studying at SkyPro online school for the profession of Data A
 *   🌍  I'm based in Saint-Petersburg
 *   🖥️  See my portfolio at [Data Analyst (SkyPro)](http://github.com/RealMackros/Portfolio-Data-Analyst)
 *   ✉️  You can contact me at [Mackros.the.black@gmail.com](mailto:Mackros.the.black@gmail.com)
-*   🧠  I'm learning Python### Skills 
+*   🧠  I'm learning Python
+
