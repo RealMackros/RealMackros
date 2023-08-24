@@ -7,6 +7,10 @@
 
 *   🌍  Я из Санкт-Петербурга
 *   🖥️  Мое портфолио: [Data Analyst (SkyPro)](http://github.com/RealMackros/Portfolio-Data-Analyst)
-*   ✉️  Со мной можно связаться: [Mackros@inbox.ru](mailto:Mackros@inbox.ru)
+*   ✉️  Со мной можно связаться: <a href="https://t.me/Mackros"> <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/></a> <a href="mailto:Mackros@inbox.ru"> <img src="https://img.shields.io/badge/@Mail-darkblue?logo=mail&logoColor=white"/></a>
 *   🧠  В настоящее время изучаю Python
+
+
+
+
 
